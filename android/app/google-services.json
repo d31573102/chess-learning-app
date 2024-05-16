@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323874663500",
+    "project_id": "chess-learning-app",
+    "storage_bucket": "chess-learning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323874663500:android:470e126481c1e95d9298e9",
+        "android_client_info": {
+          "package_name": "com.ozy.chess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBI_Y6HtN80Cii5lrtKFs8ZTxfP0I2vdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
